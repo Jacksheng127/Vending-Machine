@@ -1,0 +1,7 @@
+3
+5
+Soda,1.00,3
+Cola,1.20,15
+Latte,1.40,18
+Cookies,1.50,3
+Biscuits,1.60,12
